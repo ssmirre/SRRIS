@@ -8,7 +8,9 @@ Overall, this program guides the patient to get out of confusion and see a docto
 
 
 ## File Management System
-This project was done by a team, and is available in English and Persian. You can find the initial code done by each team memeber in both languages in the folders titled with the targeted language.
+All necessary documents are found in the folder under the same name.
+
+This project is a class team project, and is available in English and Persian. You can find the initial code done by each team memeber in both languages in the folders titled with the targeted language.
 
 The final version is edited by S. Shokri, available under the name "SRRIS Final Version.py".
 
